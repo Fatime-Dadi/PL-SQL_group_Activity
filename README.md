@@ -169,7 +169,7 @@ This Employee Management System provides a solid foundation for tracking organiz
 
 ## 👥 Group Members
 
-1- Fatime Dadi Wardougou 25858
+1- Fatime Dadi Wardougou 25858.
 2- Irakoze Nsumba Herve 28028  
 3-
 
