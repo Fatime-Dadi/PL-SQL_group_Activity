@@ -171,6 +171,6 @@ This Employee Management System provides a solid foundation for tracking organiz
 
 1- Fatime Dadi Wardougou 25858
 2- Irakoze Nsumba Herve 28028  
-3-
+3-Ishimwe Daniel 27296
 
 This project was completed as part of a class activity on database management systems.
