@@ -171,4 +171,4 @@ This Employee Management System provides a solid foundation for tracking organiz
 2-   
 3- 
 
-This project was completed as part of a class assignment on database management systems.
+This project was completed as part of a class activity on database management systems.
